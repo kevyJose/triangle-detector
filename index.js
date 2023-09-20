@@ -43,5 +43,5 @@ app.get('/triangle', (req, res) => {
 
 // start the server
 app.listen(port, () => {
-  console.log(`server is listening on port ${port}`);
+  console.log(`server started at http://localhost:${port}`);
 });
