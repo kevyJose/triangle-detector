@@ -1,4 +1,4 @@
-# rest-api-1
+# triangle-detector
 REST service for identifying triangle-type
 
 **Written by:** Kevin Jose
